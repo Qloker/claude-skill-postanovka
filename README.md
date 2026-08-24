@@ -13,7 +13,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<user>/claude-skill-postanovka.git /tmp/claude-skill-postanovka && mkdir -p ~/.claude/skills && cp -R /tmp/claude-skill-postanovka/postanovka ~/.claude/skills/
+git clone https://github.com/Qloker/claude-skill-postanovka.git /tmp/claude-skill-postanovka && mkdir -p ~/.claude/skills && cp -R /tmp/claude-skill-postanovka/postanovka ~/.claude/skills/
 ```
 
 Проверить: перезапустить сессию Claude Code и ввести `/postanovka`.
